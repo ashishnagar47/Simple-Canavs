@@ -1,0 +1,74 @@
+*{
+    margin: 0px;
+    padding:0%;
+    overflow: hidden;
+    box-sizing: border-box;
+}
+
+#block{
+    margin-top: 50px;
+    margin-left: 100px;
+}
+
+#color{
+    margin-left: 250px;
+    /* display: inline-block; */
+}
+
+#red{
+    display: inline-block;
+    padding-top: 10px;
+    margin-right: 100px;
+    height: 50px;
+    width: 50px;
+    border: 10px solid red;
+    /* background-color: red; */
+    border-radius: 50%;
+}
+
+#green{
+    display: inline-block;
+    padding-top: 10px;
+    margin-right: 100px;
+    height: 50px;
+    width: 50px;
+    border: 10px solid green;
+    /* background-color:green; */
+    border-radius: 50%;
+}
+#yellow{
+    display: inline-block;
+    padding-top: 10px;
+    margin-right: 100px;
+    height: 50px;
+    width: 50px;
+    border: 10px solid yellow;
+    /* background-color: yellow; */
+    border-radius: 50%;
+}
+#blue{
+    display: inline-block;
+    padding-top: 10px;
+    margin-right: 100px;
+    height: 50px;
+    width: 50px;
+    border: 10px solid blue;
+    /* background-color: blue; */
+    border-radius: 50%;
+}
+
+
+#canvas{
+    border: 2px solid black;
+    margin-top: 50px;
+    margin-left: 100px;
+}
+
+#download{
+    height: 5rem;
+    width: 15rem;
+    font-size: large;
+    font-weight: bolder;
+    margin-left: 500px;
+    margin-top: 20px;
+}
